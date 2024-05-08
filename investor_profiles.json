@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "Jessie",
+      "username": "jessie98",
+      "password": "Pass@123",
+      "age": 26,
+      "trait": "Active",
+      "tolerance": 1.0,
+      "investments": [
+        {
+          "company": "Tesla",
+          "amount": 600
+        },
+        {
+          "company": "Apple",
+          "amount": 1100
+        },
+        {
+          "company": "Meta",
+          "amount": 900
+        }
+      ]
+    },
+    {
+      "name": "King",
+      "username": "king98",
+      "password": "Pass@123",
+      "age": 24,
+      "trait": "Passive",
+      "tolerance": 0.5,
+      "investments": [
+        {
+          "company": "Netflix",
+          "amount": 600
+        },
+        {
+          "company": "Amazon",
+          "amount": 1100
+        },
+        {
+          "company": "Google",
+          "amount": 900
+        }
+      ]
+    }
+  ]
+}

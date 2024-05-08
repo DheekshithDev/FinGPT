@@ -1,0 +1,37 @@
+{
+  "companies": [
+    {
+      "name": "Tesla"
+    },
+    {
+      "name": "Apple"
+    },
+    {
+      "name": "Meta"
+    },
+    {
+      "name": "Amazon"
+    },
+    {
+      "name": "Netflix"
+    },
+    {
+      "name": "Google"
+    },
+    {
+      "name": "Microsoft"
+    },
+    {
+      "name": "Nvidia"
+    },
+    {
+      "name": "Adobe"
+    },
+    {
+      "name": "Intel"
+    },
+    {
+      "name": "Dell"
+    }
+  ]
+}
